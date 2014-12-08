@@ -1,0 +1,7 @@
+1.Luni
+2.Marti
+3.Miercuri
+4.joi
+5.Vineri
+6.Sambata
+7.duminica
